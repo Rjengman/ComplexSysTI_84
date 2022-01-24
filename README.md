@@ -12,7 +12,7 @@ This program works around this problem, integrating some basic linear algebra co
 2. Select # of unknown variabes/equations
 3. Enter coefficients for variables in squigly brackets and commas (ie. {i,7+3i,-3/i})
 4. Enter solution to equation normally
-5. Values for solved unknowns are stored in calculator variables 'A','B','C','D' according to how many uknowns were selected.
+5. Values for solved unknowns are stored in calculator variables 'A','B','C','D' according to how many unknowns were selected.
 
 
 Can handle systems with up to 4 unknown variables (4 linearly-independent mesh equations).
