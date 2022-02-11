@@ -16,5 +16,7 @@ This program works around this problem, integrating some basic linear algebra co
 
 
 →Can handle systems with up to 4 unknown variables (4 linearly-independent/dependent mesh equations).
+
 →Made with inspiration from AC RLC circuit problems, specifically for first year Electrical Engineering courses.
+
 →Due to the nature of TI-BASIC, some characters are unavailable in rich-text format.
