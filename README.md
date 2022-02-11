@@ -15,6 +15,7 @@ This program works around this problem, integrating some basic linear algebra co
 5. Values for solved unknowns are stored in calculator variables 'A','B','C','D' according to how many unknowns were selected.
 
 
+
 →Can handle systems with up to 4 unknown variables (4 linearly-independent/dependent mesh equations).
 
 →Made with inspiration from AC RLC circuit problems, specifically for first year Electrical Engineering courses.
