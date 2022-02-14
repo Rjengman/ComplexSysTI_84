@@ -7,6 +7,7 @@ This program works around this problem, integrating some basic linear algebra co
 
 **Procedure:**
 
+*Ensure you are in a complex number mode!*
 *(Before running, simplify equations to form: ax₁ + bx₂ + cx₃ + dx₄ = e)*
 1. Start program
 2. Select # of unknown variabes/equations
