@@ -10,7 +10,7 @@ This program works around this problem, integrating some basic linear algebra co
 *(Before running, simplify equations to form: ax₁ + bx₂ + cx₃ + dx₄ = e)*
 1. Start program
 2. Select # of unknown variabes/equations
-3. Enter coefficients for variables in squigly brackets and commas (ie. {i,7+3i,-3/i})
+3. Enter coefficients for variables in squigly brackets, divided by commas (ie. {i,7+3i,-3/(i+1)})
 4. Enter solution to equation normally
 5. Values for solved unknowns are stored in calculator variables 'A','B','C','D' according to how many unknowns were selected.
 
